@@ -1,1 +1,2 @@
-React Native To-Do App
+## Visit PlayStore
+https://play.google.com/store/apps/details?id=com.elektrogames.todo
